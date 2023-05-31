@@ -1,7 +1,5 @@
-# Data Files indicating endpoints, synchronization/age and time points --> S = Survival, M = Molting; 0_4 = 0-4 hpr, 4_8 = 4-8 hpr, 8_12 = 8-12 hpr, 0_12 = 0-12 hpr, 0_24 = 0-24 hpr; 24 = observation after 24 h, 36 = observation after 36 h, 48 = observation after 48 h
-# Raw data (expressed as % Molting and % Mortality for all timeponts
-# Influence_of_Synchronization_Age
-# R code for analysis of dose response data
-# Fitting Dose response models
-# Estimating Benchmark Doses
-# Plotting
+Raw Data, associated metadata and calculation tools accompanying the manuscript entitled "Age and synchronization of Daphnia magna affect sensitivity to teflubenzuron in acute standardized toxicity tests" authored by Simon Schmid a,c*, Jan Thomas Rundberget b, You Song a, and Knut Erik Tollefsen a,c,d*
+a Norwegian Institute for Water Research (NIVA), Section of Ecotoxicology and Risk Assessment, Økernveien 94, N-0579, Oslo, Norway
+b Norwegian Institute for Water Research (NIVA), Section of Environmental Chemistry, Økernveien 94, N-0579, Oslo, Norway
+c Faculty of Environmental Sciences and Natural Resource Management (MINA), Norwegian University of Life Sciences (NMBU), N-1432, Ås, Norway
+d Centre for Environmental Radioactivity (CERAD), Norwegian University of Life Sciences (NMBU), N-1432 Ås, Norway
